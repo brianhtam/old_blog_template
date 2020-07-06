@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Z.W. Miller
-tagline:             A Moderately Okay Data Science Blog
-url:                 http://zwmiller.github.io
+title:               Brian Tam
+tagline:             Brian Tam's Data Science Blog
+url:                 http://brianhtam.github.io
 paginate:            2
 baseurl:             ""
 
